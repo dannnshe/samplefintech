@@ -1,8 +1,11 @@
-# samplefintech
+# heading
+## sub-heading and so on and so forth
+Hello, we are **working**. This is a bold word
 
-Hello, this is a test
+We, we are *working* with syntax. This is italics.
 
-this is a upload test
-
-
-dfdffdfd
+- First 
+- Second
+- Third 
+    - Sublist
+        - B3
